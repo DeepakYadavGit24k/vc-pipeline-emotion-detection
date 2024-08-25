@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /home/deepak/Downloads/DSMP_2/tempdvc7
